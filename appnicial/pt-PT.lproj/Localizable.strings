@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  appnicial
+
+  Created by Aluno on 06/05/2019.
+  Copyright © 2019 ipvc.estg. All rights reserved.
+*/
+mainipvc.message = "Mensagem";
+mainipvc.title = "Titulo";
